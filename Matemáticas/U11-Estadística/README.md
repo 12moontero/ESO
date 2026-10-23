@@ -40,5 +40,5 @@ Así es como construimos la tabla de frecuencias bien organizada:
 
 ## 3. Representación Gráfica
 Una vez organizados los datos, se representan visualmente:
-* ** Diagramas de Barras/histogramas:** En el eje X (Horizontal) ponemos las Variables (*xi*) y en el eje Y (Vertical) ponemos las Frecuencias Absolutas(*fi*)
-* ** Diagramas de Sectores:** Círculo dividido en porciones proporcionales a los grados (°) calculados.
+* Diagramas de Barras/histogramas: En el eje X (Horizontal) ponemos las Variables (*xi*) y en el eje Y (Vertical) ponemos las Frecuencias Absolutas(*fi*)
+* Diagramas de Sectores: Círculo dividido en porciones proporcionales a los grados (°) calculados.
