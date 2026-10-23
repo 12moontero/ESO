@@ -1,6 +1,11 @@
-# E.S.O
+# E.S.O. - Mathematics & Sciences Portfolio
 
-Aquí es donde voy a poner toda la teoría y prácticas que haga en cada asignatura, las asignaturas van a ser centradas en las matemáticas.
-Todo relacionado con las matemáticas lo pondré aquí y seguramente lo mejoraré si aprendo más sobre cada sección.
+Bienvenido a mi repositorio principal de la **Educación Secundaria Obligatoria (E.S.O.)**. Aquí documento de forma estructurada todo mi aprendizaje, teoría, ejercicios y scripts de programación orientados a las matemáticas y las ciencias exactas.
 
+---
 
+##  Acceso Directo a Asignaturas
+
+| 📐 Matemáticas | Física y Química | 💻 Programación |
+| :---: | :---: | :---: |
+| [Ver Unidad 11: Estadística](https://github.com/12moontero/ESO/tree/main/Matemáticas) | *Próximamente* | *Próximamente* |
