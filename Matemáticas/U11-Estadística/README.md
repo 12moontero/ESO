@@ -42,3 +42,24 @@ Así es como construimos la tabla de frecuencias bien organizada:
 Una vez organizados los datos, se representan visualmente:
 * Diagramas de Barras/histogramas: En el eje X (Horizontal) ponemos las Variables (*xi*) y en el eje Y (Vertical) ponemos las Frecuencias Absolutas(*fi*)
 * Diagramas de Sectores: Círculo dividido en porciones proporcionales a los grados (°) calculados.
+
+## 4. Medidas de Centralización
+Son valores numéricos que resumen el conjunto de datos en un punto central representativo:
+
+### A. Media Aritmética
+Es el valor promedio que se obtiene al hacer un reparto equitativo de todos los datos
+El simbolo de **Media Aritmética** = x&#773;
+
+La formula de la **Media Aritmética** = <p align="center">
+  &sum;(x<sub>i</sub> &middot; f<sub>i</sub>)<br>
+  ─────────<br>
+  N
+</p>
+
+### B. La Moda
+La **Moda** es el dato que más Frecuencia Absoluta(*fi*) tiene de todas.
+El simbolo de Moda = *Mo*
+
+### C. La Mediana
+La **Mediana** es el valor que ocupa la posición central exacta cuando ordenamos todos los datos de menor a mayor
+El simbolo de Mediana = *Me*
