@@ -8,4 +8,4 @@ Bienvenido a mi repositorio principal de la **Educación Secundaria Obligatoria 
 
 | 📐 Matemáticas | Física y Química | 💻 Programación |
 | :---: | :---: | :---: |
-| [Ver Unidad 11: Estadística](https://github.com/12moontero/ESO/tree/main/Matemáticas) | *Próximamente* | *Próximamente* |
+| [Ver Unidadades](https://github.com/12moontero/ESO/tree/main/Matemáticas) | *Próximamente* | *Próximamente* |
