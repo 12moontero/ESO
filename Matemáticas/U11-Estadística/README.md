@@ -58,8 +58,8 @@ La formula de la **Media Aritmética** = <p align="center">
 
 ### B. La Moda
 La **Moda** es el dato que más Frecuencia Absoluta(*fi*) tiene de todas.
-El simbolo de Moda = *Mo*
+- El simbolo de Moda = *Mo*
 
 ### C. La Mediana
 La **Mediana** es el valor que ocupa la posición central exacta cuando ordenamos todos los datos de menor a mayor
-El simbolo de Mediana = *Me*
+- El simbolo de Mediana = *Me*
