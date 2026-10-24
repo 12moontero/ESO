@@ -15,7 +15,7 @@ La variable es la propiedad que vas a preguntar a cada individuo (muestra),
 2. Variable Cuantitativa: Mide cantidades numéricas, estas se dividen en dos secciones
    - Discreta: Son números enteros como número de hermanos, goles...
    - Continúa. Son números que tienen intervalos como la estatura, peso, medidas...
-En resumen, se divide en números y no números. Los números se dividen en dos: si son números enteros o decimales.
+* En resumen, se divide en números y no números. Los números se dividen en dos: si son números enteros o decimales.
 
 ## 2. Tabla de Frecuencias
 Para organizar los datos y facilitar los cálculos, utilizamos la **Tabla de Frecuencias**
