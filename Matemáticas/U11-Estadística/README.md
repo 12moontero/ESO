@@ -48,7 +48,7 @@ Son valores numéricos que resumen el conjunto de datos en un punto central repr
 
 ### A. Media Aritmética
 Es el valor promedio que se obtiene al hacer un reparto equitativo de todos los datos
-El simbolo de **Media Aritmética** = x&#773;
+- El simbolo de **Media Aritmética** = x&#773;
 
 La formula de la **Media Aritmética** = <p align="center">
   &sum;(x<sub>i</sub> &middot; f<sub>i</sub>)<br>
