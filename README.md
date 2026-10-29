@@ -6,6 +6,6 @@ Bienvenido a mi repositorio principal de la **Educación Secundaria Obligatoria 
 
 ##  Acceso Directo a Asignaturas
 
-| 📐 Matemáticas | Física y Química | 💻 Programación |
+| 📐 Matemáticas | Física y Química | 💻 Tecnología |
 | :---: | :---: | :---: |
-| [Ver Unidadades](https://github.com/12moontero/ESO/tree/main/Matemáticas) | *Próximamente* | *Próximamente* |
+| [Ver Unidadades](https://github.com/12moontero/ESO/tree/main/Matemáticas) | *Próximamente* | [Ver Unidadades](https://github.com/12moontero/ESO/tree/main/Tecnología) |
