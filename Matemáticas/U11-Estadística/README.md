@@ -26,9 +26,8 @@ Para organizar los datos y facilitar los cálculos, utilizamos la **Tabla de Fre
 - Porcentaje relativo %: Es la Frecuecia Relativa · 100. Fórmula: *fi*·100 = Porcentaje de dato en total.
 - Grados del sector (°): Es la Frecuecia Relativa · 360. Fórmula: *fi*·360 = Grados
 > Ejemplo
-Imagina que le preguntamos a un grupo de amigos cuántos hermanos tienen y nos responden esto:  
+> Imagina que le preguntamos a un grupo de amigos cuántos hermanos tienen y nos responden esto:  
 `1, 2, 1, 0, 1, 2, 0, 1`  *(N = 8 personas).*
-
 Así es como construimos la tabla de frecuencias bien organizada:
 
 | *xi* | *fi* | *hi* | % | ° |
@@ -63,3 +62,44 @@ La **Moda** es el dato que más Frecuencia Absoluta(*fi*) tiene de todas.
 ### C. La Mediana
 La **Mediana** es el valor que ocupa la posición central exacta cuando ordenamos todos los datos de menor a mayor
 - El simbolo de Mediana = *Me*
+- Para calcular la mediana necesitamos la **Frecuencia Acumulada**(*Ni*)
+- Frecuencia Acumulada (*Fi*): Es la frecuencia absoluta sumada de la otra.
+> Ejemplo
+> Imagina que le preguntamos a un grupo de amigos cuántos hermanos tienen y nos responden esto:  
+`1, 2, 1, 0, 1, 2, 0, 1,`  *(N = 8 personas).*
+
+| *xi* | *fi* | *Fi* | *hi* | *Hi* |
+| :---: | :---: | :---: | :---: | :---: |
+| **0** | 2 | 2 | 0,25 | 0,25 |
+| **1** | 4 | 6 | 0,50 | 0,75 |
+| **2** | 2 | 8 | 0,25 | 1,00 |  
+| **TOTAL** | N=8| 1,00 | 100% | 360°|
+
+## 5. Medidas de Dispersión
+### A. Recorrido
+El recorrido es la diferencia que hay entre el valor mas pequeño y el mayor valor.
+Su simbolo es *R*
+> Ejemplo
+> Imagina que le preguntamos a dos estudiantes el A y el B y nos responden esto:
+- Estudiante A: 5,4,6,5,5  R= 6-4 = 2
+- Estudiante B: 1,8,5,9,2  R= 9-1 = 8
+En el recorrido se ve que coge el número más mayor y lo resta al menor. Aquí se ve la diferencia, en cambio, en la media aritmética no se puede ver.
+
+### B. Varianza
+Es la media de las distancias de cada dato respecto a la media aritmética, elevadas al cuadrado.
+Basicamente la Varianza (σ²) es un paso intermedio no sirve de nada al cuadrado para eso esta la Desviación Típica.
+- Formula: <p align="center">
+  &sum;(x<sub>i</sub> - x&#772;)<sup>2</sup> &middot; f<sub>i</sub><br>
+  ────────────<br>
+  N
+</p>
+
+### C. Desviación Típica
+Es igual a la Varianza pero con la raiz cuadrada para que sirva ese numero.
+- Formula : √σ<sup>2</sup> = Desviación Típica (σ)
+
+### D. Coeficiente de Variación
+Es el cociente entre la desviación típica y la media. Se suele expresar en porcentaje.
+- Indica el porcentaje de inestabilidad o dispersión relativa que representa la desviación típica (σ) respecto a la media (x&#772;).
+- Formula: CV = &sigma; / x&#772;<br>
+Si lo quieres en porcentaje: CV = &sigma; / x&#772; · 100
